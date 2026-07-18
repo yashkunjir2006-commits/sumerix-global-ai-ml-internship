@@ -1,53 +1,33 @@
-# AI & Machine Learning Internship
+# 🤖 AI & Machine Learning Internship
 
-## Overview
-
-This repository contains all the projects completed during my Artificial Intelligence & Machine Learning Internship at **Sumerix Global**.
-
-Throughout the internship, I worked on real-world machine learning problems using Python and Scikit-learn while learning data preprocessing, model building, validation, and hyperparameter tuning.
-
----
-
-## Internship Details
-
-**Company:** Sumerix Global
-
-**Domain:** Artificial Intelligence & Machine Learning
-
-**Type:** Virtual Internship
+![Python](https://img.shields.io/badge/Python-3.13-blue?logo=python)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-ML-orange?logo=scikitlearn)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-blue?logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-Scientific%20Computing-blue?logo=numpy)
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter)
 
 ---
 
-## Projects
+## 📖 Overview
 
-### Task 1
-House Price Prediction using Linear Regression
+This repository contains all projects completed during my AI & Machine Learning Internship at **Sumerix Global**.
 
-**Skills**
-- Python
-- Pandas
-- NumPy
-- Scikit-learn
+The internship focused on developing machine learning models, data preprocessing, model validation, hyperparameter tuning, and performance evaluation using Python and Scikit-learn.
 
 ---
 
-### Task 2
+## 🏢 Internship Details
 
-Model Comparison using different Machine Learning algorithms.
-
----
-
-### Task 3
-
-Model Validation
-
-Overfitting Control
-
-Hyperparameter Tuning
+| Item | Details |
+|------|---------|
+| Company | Sumerix Global |
+| Domain | Artificial Intelligence & Machine Learning |
+| Internship Type | Virtual |
+| Language | Python |
 
 ---
 
-## Technologies Used
+## 🛠 Tech Stack
 
 - Python
 - Pandas
@@ -55,12 +35,14 @@ Hyperparameter Tuning
 - Matplotlib
 - Scikit-learn
 - Jupyter Notebook
+- Git
+- GitHub
 
 ---
 
-## Folder Structure
+## 📂 Project Structure
 
-```
+```text
 task-1-house-price-predictor/
 task-2-model-comparison/
 task-3-model-validation-tuning/
@@ -68,22 +50,57 @@ task-3-model-validation-tuning/
 
 ---
 
-## Results
+## 📌 Projects
 
-Successfully built and evaluated multiple machine learning models using industry-standard evaluation metrics.
+### 🏠 Task 1 – House Price Prediction
 
----
-
-## Future Improvements
-
-- Deploy models using Streamlit
-- Build Flask API
-- Experiment with Deep Learning
+- Data Preprocessing
+- Feature Engineering
+- Linear Regression
+- Model Evaluation
 
 ---
 
-## Author
+### 📊 Task 2 – Model Comparison
 
-Yash Kunjir
+- Comparing ML Algorithms
+- Performance Analysis
+
+---
+
+### ⚙️ Task 3 – Hyperparameter Tuning
+
+- Cross Validation
+- GridSearchCV
+- Overfitting Control
+
+---
+
+## 📈 Results
+
+| Metric | Value |
+|--------|------:|
+| MAE | 42.79 |
+| RMSE | 53.85 |
+| R² Score | 0.45 |
+
+---
+
+## 🚀 Future Improvements
+
+- Deploy using Streamlit
+- Flask API
+- Deep Learning models
+- Feature selection
+
+---
+
+## 👨‍💻 Author
+
+**Yash Kunjir**
 
 MIT ADT University
+
+LinkedIn: https://www.linkedin.com/in/yash-kunjir-398608332
+
+GitHub: https://github.com/yashkunjir2006-commits<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/430575fd-2d03-42b6-8c00-b715d49eaea5" />
