@@ -103,4 +103,4 @@ MIT ADT University
 
 LinkedIn: https://www.linkedin.com/in/yash-kunjir-398608332
 
-GitHub: https://github.com/yashkunjir2006-commits<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/430575fd-2d03-42b6-8c00-b715d49eaea5" />
+GitHub: https://github.com/yashkunjir2006-commits
